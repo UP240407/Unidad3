@@ -1,0 +1,11 @@
+first_name = "Isaac"
+last_name = "Serna Pacheco"
+full_name = first_name + " " + last_name
+country = "México"
+city = "Aguascalientes"
+age = 19
+year = 2025
+is_married = False
+is_true = True
+is_light_on = False
+first_name, last_name, country, city, age, year, is_married, is_true, is_light_on = "Isaac", "Serna Pacheco", "México", "Aguascalientes", 25, 2025, False, True, False
